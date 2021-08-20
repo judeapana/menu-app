@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="name_of_dish">Name Of Dish</string>
+    <string name="please_enter_your_dish">Please Enter Your Dish</string>
+    <string name="name_of_tribe">Name Of Tribe</string>
+    <string name="please_enter_your_tribe">Please Enter Your Tribe</string>
+    <string name="how_to_prepare">How To Prepare</string>
+    <string name="add_dish">Add Dish</string>
+    <string name="edit_dish">Edit Dish</string>
+</resources>
